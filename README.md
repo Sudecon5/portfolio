@@ -25,9 +25,9 @@ Developed a machine learning module that could predict house prices of Bangalore
 ### Detecting Iris Flower Using Machine Learning 
 [Project Link](https://github.com/Sudecon5/Iris)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Used **Jupyter Notebook** to train model to identify the type of iris flowers based on sepal width, sepal length, petal width and petal length. The dataset contained features which could be further classified whether they were setosa, versicolor or virginica. The machine learning model include Logistic Regression which attained 100 percent accuracy in prediction. </br>
+<img width="309" alt="Screenshot 2025-05-06 at 11 42 50" src="https://github.com/user-attachments/assets/1fc73724-8486-41b9-a8d8-efc8d97498c4" />
 
-![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Seminar Papers 
 
