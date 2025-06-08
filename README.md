@@ -1,7 +1,7 @@
 # Sudipta Priyam Kakoty
 # Data Scientist
 
-#### Technical Skills: Python, SQL, Excel, HTML, Latex
+#### Technical Skills: Python,Tableau, SQL, Excel, HTML, Latex
 
 ## Education
 - M.S., Economics	| University of Siegen (_October 2023 -_)	 			        		
